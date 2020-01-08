@@ -1,0 +1,2 @@
+# ScreenTranslateApp
+ScreenTranslate Application Informations
